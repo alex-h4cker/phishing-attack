@@ -11,3 +11,13 @@ Phishing is divided into three types: Standard Phishing, Spear Phishing, and Wha
 2. Spear Phishing: In this type of phishing, attackers use web pages that closely resemble real pages of organizations, banks, or other well-known services. The goal of this type of phishing is to collect user information and usually includes entering user credentials, bank card numbers, or account information.
 
 3. Whale Phishing: In this type of phishing, attackers claim to be from a reputable organization or famous person using phone calls, text messages, or social media messages. They bypass their target with lies such as debts or big prizes and obtain personal or financial information from victims.
+
+Phishing attacks are one of the common methods used to deceive individuals, primarily through sending fraudulent and addictive messages to their targets, attempting to gain access to sensitive and personal information such as passwords, bank card numbers, and financial details. To counter phishing attacks, you can utilize the following solutions:
+
+1. Be aware: Being aware of the types of phishing attacks and their identification methods can help you combat them. A significant portion of email and computer pop-up messages are deceptive. Checking the authenticity of the email source is a simple method to prevent falling into their trap.
+
+2. Verify the sender's identity: Before responding to any requests for personal information, make sure that the sender is genuine. You can verify the sender's identity by using official contact numbers or valid website addresses.
+
+3. Do not trust suspicious links: Never click on suspicious links in emails or text messages. Instead, independently access your account using the official website address.
+
+4. Use anti-phishing software: Installing anti-phishing software on your device (such as antivirus) provides enhanced protection against phishing attacks. These software programs are capable of identifying suspicious links.
